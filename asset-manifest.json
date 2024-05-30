@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/royal-straight-poker/static/css/main.fc5c2c69.css",
-    "main.js": "/royal-straight-poker/static/js/main.22e189f7.js",
+    "main.css": "/royal-straight-poker/static/css/main.fb841d20.css",
+    "main.js": "/royal-straight-poker/static/js/main.622d32b6.js",
     "index.html": "/royal-straight-poker/index.html",
-    "main.fc5c2c69.css.map": "/royal-straight-poker/static/css/main.fc5c2c69.css.map",
-    "main.22e189f7.js.map": "/royal-straight-poker/static/js/main.22e189f7.js.map"
+    "main.fb841d20.css.map": "/royal-straight-poker/static/css/main.fb841d20.css.map",
+    "main.622d32b6.js.map": "/royal-straight-poker/static/js/main.622d32b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc5c2c69.css",
-    "static/js/main.22e189f7.js"
+    "static/css/main.fb841d20.css",
+    "static/js/main.622d32b6.js"
   ]
 }
